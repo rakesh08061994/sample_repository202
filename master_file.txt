@@ -1,0 +1,1 @@
+This is master_file.txt file from master branch
